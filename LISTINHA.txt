@@ -1,0 +1,153 @@
+listinha dos pokemons da primeira geração
+000	000MS.png	Missingno	NormalIC.gif	FlyingIC.gif
+001	001MS.png	Bulbasaur	GrassIC.gif	PoisonIC.gif
+002	002MS.png	Ivysaur	GrassIC.gif	PoisonIC.gif
+003	003MS.png	Venusaur	GrassIC.gif	PoisonIC.gif
+004	004MS.png	Charmander	FireIC.gif
+005	005MS.png	Charmeleon	FireIC.gif
+006	006MS.png	Charizard	FireIC.gif	FlyingIC.gif
+007	007MS.png	Squirtle	WaterIC.gif
+008	008MS.png	Wartortle	WaterIC.gif
+009	009MS.png	Blastoise	WaterIC.gif
+010	010MS.png	Caterpie	BugIC.gif
+011	011MS.png	Metapod	BugIC.gif
+012	012MS.png	Butterfree	BugIC.gif	FlyingIC.gif
+013	013MS.png	Weedle	BugIC.gif	PoisonIC.gif
+014	014MS.png	Kakuna	BugIC.gif	PoisonIC.gif
+015	015MS.png	Beedrill	BugIC.gif	PoisonIC.gif
+016	016MS.png	Pidgey	NormalIC.gif	FlyingIC.gif
+017	017MS.png	Pidgeotto	NormalIC.gif	FlyingIC.gif
+018	018MS.png	Pidgeot	NormalIC.gif	FlyingIC.gif
+019	019MS.png	Rattata	NormalIC.gif
+020	020MS.png	Raticate	NormalIC.gif
+021	021MS.png	Spearow	NormalIC.gif	FlyingIC.gif
+022	022MS.png	Fearow	NormalIC.gif	FlyingIC.gif
+023	023MS.png	Ekans	PoisonIC.gif
+024	024MS.png	Arbok	PoisonIC.gif
+025	025MS.png	Pikachu	ElectricIC.gif
+026	026MS.png	Raichu	ElectricIC.gif
+027	027MS.png	Sandshrew	GroundIC.gif
+028	028MS.png	Sandslash	GroundIC.gif
+029	029MS.png	Nidoran♀	PoisonIC.gif
+030	030MS.png	Nidorina	PoisonIC.gif
+031	031MS.png	Nidoqueen	PoisonIC.gif	GroundIC.gif
+032	032MS.png	Nidoran♂	PoisonIC.gif
+033	033MS.png	Nidorino	PoisonIC.gif
+034	034MS.png	Nidoking	PoisonIC.gif	GroundIC.gif
+035	035MS.png	Clefairy	FairyIC.png
+036	036MS.png	Clefable	FairyIC.png
+037	037MS.png	Vulpix	FireIC.gif
+038	038MS.png	Ninetales	FireIC.gif
+039	039MS.png	Jigglypuff	NormalIC.gif	FairyIC.png
+040	040MS.png	Wigglytuff	NormalIC.gif	FairyIC.png
+041	041MS.png	Zubat	PoisonIC.gif	FlyingIC.gif
+042	042MS.png	Golbat	PoisonIC.gif	FlyingIC.gif
+043	043MS.png	Oddish	GrassIC.gif	PoisonIC.gif
+044	044MS.png	Gloom	GrassIC.gif	PoisonIC.gif
+045	045MS.png	Vileplume	GrassIC.gif	PoisonIC.gif
+046	046MS.png	Paras	BugIC.gif	GrassIC.gif
+047	047MS.png	Parasect	BugIC.gif	GrassIC.gif
+048	048MS.png	Venonat	BugIC.gif	PoisonIC.gif
+049	049MS.png	Venomoth	BugIC.gif	PoisonIC.gif
+050	050MS.png	Diglett	GroundIC.gif
+051	051MS.png	Dugtrio	GroundIC.gif
+052	052MS.png	Meowth	NormalIC.gif
+053	053MS.png	Persian	NormalIC.gif
+054	054MS.png	Psyduck	WaterIC.gif
+055	055MS.png	Golduck	WaterIC.gif
+056	056MS.png	Mankey	FightingIC.gif
+057	057MS.png	Primeape	FightingIC.gif
+058	058MS.png	Growlithe	FireIC.gif
+059	059MS.png	Arcanine	FireIC.gif
+060	060MS.png	Poliwag	WaterIC.gif
+061	061MS.png	Poliwhirl	WaterIC.gif
+062	062MS.png	Poliwrath	WaterIC.gif	FightingIC.gif
+063	063MS.png	Abra	PsychicIC.gif
+064	064MS.png	Kadabra	PsychicIC.gif
+065	065MS.png	Alakazam	PsychicIC.gif
+066	066MS.png	Machop	FightingIC.gif
+067	067MS.png	Machoke	FightingIC.gif
+068	068MS.png	Machamp	FightingIC.gif
+069	069MS.png	Bellsprout	GrassIC.gif	PoisonIC.gif
+070	070MS.png	Weepinbell	GrassIC.gif	PoisonIC.gif
+071	071MS.png	Victreebel	GrassIC.gif	PoisonIC.gif
+072	072MS.png	Tentacool	WaterIC.gif	PoisonIC.gif
+073	073MS.png	Tentacruel	WaterIC.gif	PoisonIC.gif
+074	074MS.png	Geodude	RockIC.gif	GroundIC.gif
+075	075MS.png	Graveler	RockIC.gif	GroundIC.gif
+076	076MS.png	Golem	RockIC.gif	GroundIC.gif
+077	077MS.png	Ponyta	FireIC.gif
+078	078MS.png	Rapidash	FireIC.gif
+079	079MS.png	Slowpoke	WaterIC.gif	PsychicIC.gif
+080	080MS.png	Slowbro	WaterIC.gif	PsychicIC.gif
+081	081MS.png	Magnemite	ElectricIC.gif	SteelIC.gif
+082	082MS.png	Magneton	ElectricIC.gif	SteelIC.gif
+083	083MS.png	Farfetch'd	NormalIC.gif	FlyingIC.gif
+084	084MS.png	Doduo	NormalIC.gif	FlyingIC.gif
+085	085MS.png	Dodrio	NormalIC.gif	FlyingIC.gif
+086	086MS.png	Seel	WaterIC.gif
+087	087MS.png	Dewgong	WaterIC.gif	IceIC.gif
+088	088MS.png	Grimer	PoisonIC.gif
+089	089MS.png	Muk	PoisonIC.gif
+090	090MS.png	Shellder	WaterIC.gif
+091	091MS.png	Cloyster	WaterIC.gif	IceIC.gif
+092	092MS.png	Gastly	GhostIC.gif	PoisonIC.gif
+093	093MS.png	Haunter	GhostIC.gif	PoisonIC.gif
+094	094MS.png	Gengar	GhostIC.gif	PoisonIC.gif
+095	095MS.png	Onix	RockIC.gif	GroundIC.gif
+096	096MS.png	Drowzee	PsychicIC.gif
+097	097MS.png	Hypno	PsychicIC.gif
+098	098MS.png	Krabby	WaterIC.gif
+099	099MS.png	Kingler	WaterIC.gif
+100	100MS.png	Voltorb	ElectricIC.gif
+101	101MS.png	Electrode	ElectricIC.gif
+102	102MS.png	Exeggcute	GrassIC.gif	PsychicIC.gif
+103	103MS.png	Exeggutor	GrassIC.gif	PsychicIC.gif
+104	104MS.png	Cubone	GroundIC.gif
+105	105MS.png	Marowak	GroundIC.gif
+106	106MS.png	Hitmonlee	FightingIC.gif
+107	107MS.png	Hitmonchan	FightingIC.gif
+108	108MS.png	Lickitung	NormalIC.gif
+109	109MS.png	Koffing	PoisonIC.gif
+110	110MS.png	Weezing	PoisonIC.gif
+111	111MS.png	Rhyhorn	GroundIC.gif	RockIC.gif
+112	112MS.png	Rhydon	GroundIC.gif	RockIC.gif
+113	113MS.png	Chansey	NormalIC.gif
+114	114MS.png	Tangela	GrassIC.gif
+115	115MS.png	Kangaskhan	NormalIC.gif
+116	116MS.png	Horsea	WaterIC.gif
+117	117MS.png	Seadra	WaterIC.gif
+118	118MS.png	Goldeen	WaterIC.gif
+119	119MS.png	Seaking	WaterIC.gif
+120	120MS.png	Staryu	WaterIC.gif
+121	121MS.png	Starmie	WaterIC.gif	PsychicIC.gif
+122	122MS.png	Mr. Mime	PsychicIC.gif
+123	123MS.png	Scyther	BugIC.gif	FlyingIC.gif
+124	124MS.png	Jynx	IceIC.gif	PsychicIC.gif
+125	125MS.png	Electabuzz	ElectricIC.gif
+126	126MS.png	Magmar	FireIC.gif
+127	127MS.png	Pinsir	BugIC.gif
+128	128MS.png	Tauros	NormalIC.gif
+129	129MS.png	Magikarp	WaterIC.gif
+130	130MS.png	Gyarados	WaterIC.gif	FlyingIC.gif
+131	131MS.png	Lapras	WaterIC.gif	IceIC.gif
+132	132MS.png	Ditto	NormalIC.gif
+133	133MS.png	Eevee	NormalIC.gif
+134	134MS.png	Vaporeon	WaterIC.gif
+135	135MS.png	Jolteon	ElectricIC.gif
+136	136MS.png	Flareon	FireIC.gif
+137	137MS.png	Porygon	NormalIC.gif
+138	138MS.png	Omanyte	RockIC.gif	WaterIC.gif
+139	139MS.png	Omastar	RockIC.gif	WaterIC.gif
+140	140MS.png	Kabuto	RockIC.gif	WaterIC.gif
+141	141MS.png	Kabutops	RockIC.gif	WaterIC.gif
+142	142MS.png	Aerodactyl	RockIC.gif	FlyingIC.gif
+143	143MS.png	Snorlax	NormalIC.gif
+144	144MS.png	Articuno	IceIC.gif	FlyingIC.gif
+145	145MS.png	Zapdos	ElectricIC.gif	FlyingIC.gif
+146	146MS.png	Moltres	FireIC.gif	FlyingIC.gif
+147	147MS.png	Dratini	DragonIC.gif
+148	148MS.png	Dragonair	DragonIC.gif
+149	149MS.png	Dragonite	DragonIC.gif	FlyingIC.gif
+150	150MS.png	Mewtwo	PsychicIC.gif
+151	151MS.png	Mew	PsychicIC.gif
