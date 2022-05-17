@@ -1,0 +1,109 @@
+Chikorita	Chicorita[4]	152	Planta	Bayleef (#153)	Gold e Silver
+Bayleef	Bayleaf[5]	153	Planta	Meganium (#154)	Gold e Silver
+Meganium	Meganium	154	Planta	Não evoluem	Gold e Silver
+Cyndaquil	Hinoarashi[6]	155	Fogo	Quilava (#156)	Gold e Silver
+Quilava	Magmarashi[7]	156	Fogo	Typhlosion (#157)	Gold e Silver
+Typhlosion	Bakphoon	157	Fogo	Não evoluem	Gold e Silver
+Totodile	Waninoko[8]	158	Água	Croconaw (#159)	Gold e Silver
+Croconaw	Alligates[7]	159	Água	Feraligatr (#160)	Gold e Silver
+Feraligatr	Ordile	160	Água	Não evoluem	Gold e Silver
+Sentret	Otachi[9]	161	Normal	Furret (#162)	Gold e Silver
+Furret	Ootachi[10]	162	Normal	Não evoluem	Gold e Silver
+Hoothoot	Hoho[10]	163	Normal	Voador	Noctowl (#164)	Gold e Silver
+Noctowl	Yorunozuku[10]	164	Normal	Voador	Não evoluem	Gold e Silver
+Ledyba	Rediba[10]	165	Inseto	Voador	Ledian (#166)	Gold e Silver
+Ledian	Redian[10]	166	Inseto	Voador	Não evoluem	Gold e Silver
+Spinarak	Itomaru[10]	167	Inseto	Venenoso	Ariados (#168)	Gold e Silver
+Ariados	Ariados[10]	168	Inseto	Venenoso	Não evoluem	Gold e Silver
+Crobat	Crobat	169	Venenoso	Voador	Não evoluem	Gold e Silver
+Chinchou	Chonchie[10]	170	Água	Elétrico	Lanturn (#171)	Gold e Silver
+Lanturn	Lantern[10]	171	Água	Elétrico	Não evoluem	Gold e Silver
+Pichu	Pichu	172	Elétrico	Pikachu (#025)	Gold e Silver
+Cleffa	Py	173	Fada[nb 2]	Clefairy (#035)	Gold e Silver
+Igglybuff	Pupurin[11]	174	Normal	Fada[nb 2]	Jigglypuff (#039)	Gold e Silver
+Togepi	Togepy[12]	175	Fada[nb 2]	Togetic (#176)	Gold e Silver
+Togetic	Togechick[13]	176	Fada[nb 3]	Voador	Togekiss (#468)	Gold e Silver
+Natu	Naty[10]	177	Psíquico	Voador	Xatu (#178)	Gold e Silver
+Xatu	Natio[10]	178	Psíquico	Voador	Não evoluem	Gold e Silver
+Mareep	Merriep[14]	179	Elétrico	Flaaffy (#180)	Gold e Silver
+Flaaffy	Mokoko[10]	180	Elétrico	Ampharos (#181)	Gold e Silver
+Ampharos	Denryu[15]	181	Elétrico	Mega Evolução	Gold e Silver
+Mega Ampharos	Mega Denryu[15]	Elétrico	Dragão	Não evoluem	X e Y
+Bellossom	Kireihana[11]	182	Planta	Não evoluem	Gold e Silver
+Marill	Maril[16]	183	Água	Fada[nb 4]	Azumarill (#184)	Gold e Silver
+Azumarill	Marilli	184	Água	Fada[nb 4]	Não evoluem	Gold e Silver
+Sudowoodo	Usokkie[13]	185	Pedra	Não evoluem	Gold e Silver
+Politoed	Nyorotono[10]	186	Água	Não evoluem	Gold e Silver
+Hoppip	Hanecco[13]	187	Planta	Voador	Skiploom (#188)	Gold e Silver
+Skiploom	Popocco[10]	188	Planta	Voador	Jumpluff (#189)	Gold e Silver
+Jumpluff	Watacco[10]	189	Planta	Voador	Não evoluem	Gold e Silver
+Aipom	Eipam	190	Normal	Ambipom (#424)	Gold e Silver
+Sunkern	Himanuts[10]	191	Planta	Sunflora (#192)	Gold e Silver
+Sunflora	Kimawari[17]	192	Planta	Não evoluem	Gold e Silver
+Yanma	Yanyanma[10]	193	Inseto	Voador	Yanmega (#469)	Gold e Silver
+Wooper	Upah[11]	194	Água	Terrestre	Quagsire (#195)	Gold e Silver
+Quagsire	Nuoh[10]	195	Água	Terrestre	Não evoluem	Gold e Silver
+Espeon	Eifie	196	Psíquico	Não evoluem	Gold e Silver
+Umbreon	Blacky	197	Noturno	Não evoluem	Gold e Silver
+Murkrow	Yamikarasu[10]	198	Noturno	Voador	Honchkrow (#430)	Gold e Silver
+Slowking	Yadoking[13]	199	Água	Psíquico	Não evoluem	Gold e Silver
+Misdreavus	Muma	200	Fantasma	Mismagius (#429)	Gold e Silver
+Unown	Unknown[18]	201	Psíquico	Não evoluem	Gold e Silver
+Wobbuffet	Sonans	202	Psíquico	Não evoluem	Gold e Silver
+Girafarig	Kirinriki[10]	203	Normal	Psíquico	Não evoluem	Gold e Silver
+Pineco	Kunugidama[10]	204	Inseto	Forretress (#205)	Gold e Silver
+Forretress	Foretos[10]	205	Inseto	Metálico	Não evoluem	Gold e Silver
+Dunsparce	Nokocchi[10]	206	Normal	Não evoluem	Gold e Silver
+Gligar	Gliger	207	Terrestre	Voador	Gliscor (#472)	Gold e Silver
+Steelix	Haganeil	208	Metálico	Terrestre	Mega Evolução	Gold e Silver
+Mega Steelix	Mega Haganeil	Metálico	Terrestre	Não evoluem	Omega Ruby e
+Alpha Sapphire
+Snubbull	Bulu[10]	209	Fada[nb 2]	Granbull (#210)	Gold e Silver
+Granbull	Granbulu[10]	210	Fada[nb 2]	Não evoluem	Gold e Silver
+Qwilfish	Harysen[10]	211	Água	Venenoso	Não evoluem	Gold e Silver
+Scizor	Hassam[11]	212	Inseto	Metálico	Mega Evolução	Gold e Silver
+Mega Scizor	Mega Hassam[15]	Inseto	Metálico	Não evoluem	X e Y
+Shuckle	Tsubotsubo[10]	213	Inseto	Pedra	Não evoluem	Gold e Silver
+Heracross	Heracros[7]	214	Inseto	Lutador	Mega Evolução	Gold e Silver
+Mega Heracross	Mega Heracros[15]	Inseto	Lutador	Não evoluem	X e Y
+Sneasel	Nyula[10]	215	Noturno	Gelo	Weavile (#461)	Gold e Silver
+Teddiursa	Himeguma[11]	216	Normal	Ursaring (#217)	Gold e Silver
+Ursaring	Ringuma[7]	217	Normal	Não evoluem	Gold e Silver
+Slugma	Magmag[10]	218	Fogo	Magcargo (#219)	Gold e Silver
+Magcargo	Magcargot[10]	219	Fogo	Pedra	Não evoluem	Gold e Silver
+Swinub	Urimoo[10]	220	Gelo	Terrestre	Piloswine (#221)	Gold e Silver
+Piloswine	Inomoo[10]	221	Gelo	Terrestre	Mamoswine (#473)	Gold e Silver
+Corsola	Sunnygo[10]	222	Água	Pedra	Cursola (#864)[nb 5]	Gold e Silver
+Remoraid	Teppouo[10]	223	Água	Octillery (#224)	Gold e Silver
+Octillery	Okutank[10]	224	Água	Não evoluem	Gold e Silver
+Delibird	Delibird	225	Gelo	Voador	Não evoluem	Gold e Silver
+Mantine	Mantain	226	Água	Voador	Não evoluem	Gold e Silver
+Skarmory	Airmd	227	Metálico	Voador	Não evoluem	Gold e Silver
+Houndour	Delvil[13]	228	Noturno	Fogo	Houndoom (#229)	Gold e Silver
+Houndoom	Hellgar[7]	229	Noturno	Fogo	Mega Evolução	Gold e Silver
+Mega Houndoom	Mega Hellgar[15]	Noturno	Fogo	Não evoluem	X e Y
+Kingdra	Kingdra[10]	230	Água	Dragão	Não evoluem	Gold e Silver
+Phanpy	Gomazou[11]	231	Terrestre	Donphan (#232)	Gold e Silver
+Donphan	Donfan	232	Terrestre	Não evoluem	Gold e Silver
+Porygon2	Porygon2[10]	233	Normal	Porygon-Z (#474)	Gold e Silver
+Stantler	Odoshishi[17]	234	Normal	Não evoluem	Gold e Silver
+Smeargle	Doble	235	Normal	Não evoluem	Gold e Silver
+Tyrogue	Balkie[10]	236	Lutador	Hitmonchan (#106)
+Hitmonlee (#107)
+Hitmontop (#237)	Gold e Silver
+Hitmontop	Kapoerer[13]	237	Lutador	Não evoluem	Gold e Silver
+Smoochum	Muchul	238	Gelo	Psíquico	Jynx (#124)	Gold e Silver
+Elekid	Elekid[19]	239	Elétrico	Electabuzz (#125)	Gold e Silver
+Magby	Buby[10]	240	Fogo	Magmar (#126)	Gold e Silver
+Miltank	Miltank	241	Normal	Não evoluem	Gold e Silver
+Blissey	Happinas	242	Normal	Não evoluem	Gold e Silver
+Raikou	Raikou[13]	243	Elétrico	Não evoluem	Gold e Silver
+Entei	Entei[18]	244	Fogo	Não evoluem	Gold e Silver
+Suicune	Suicune/Suikun[11][13]	245	Água	Não evoluem	Gold e Silver
+Larvitar	Yogiras[10]	246	Pedra	Terrestre	Pupitar (#247)	Gold e Silver
+Pupitar	Sanagiras[10]	247	Pedra	Terrestre	Tyranitar (#248)	Gold e Silver
+Tyranitar	Bangiras	248	Pedra	Noturno	Mega Evolução	Gold e Silver
+Mega Tyranitar	Mega Bangiras[15]	Pedra	Noturno	Não evoluem	X e Y
+Lugia	Lugia	249	Psíquico	Voador	Não evoluem	Gold e Silver
+Ho-Oh	Houou	250	Fogo	Voador	Não evoluem	Gold e Silver
+Celebi	Celebi[20]	251	Planta	Psíquico	Não evoluem	Gold e Silver
